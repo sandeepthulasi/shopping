@@ -1,0 +1,11 @@
+.copy{
+    width: 100vw;
+    height:15vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
